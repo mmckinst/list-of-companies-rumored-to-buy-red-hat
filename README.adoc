@@ -1,5 +1,11 @@
 :toc:
 
+== October 2018 - Cisco or Oracle
+
+https://www.marketwatch.com/story/ibms-record-offer-for-red-hat-leaves-analysts-doubtful-but-still-speculating-on-bidding-war-2018-10-29
+
+`If the breakup fee is not too onerous, Red Hat might be wooed away by Cisco Systems Inc. CSCO, -2.51% Google or Oracle Corp. ORCL, -1.75% Moskowitz said.`
+
 == October 2018 - IBM
 
 https://www.redhat.com/en/about/press-releases/ibm-acquire-red-hat-completely-changing-cloud-landscape-and-becoming-world%E2%80%99s-1-hybrid-cloud-provider
