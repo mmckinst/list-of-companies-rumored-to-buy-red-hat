@@ -1,0 +1,93 @@
+:toc:
+
+== October 2018 - IBM
+
+https://www.redhat.com/en/about/press-releases/ibm-acquire-red-hat-completely-changing-cloud-landscape-and-becoming-world%E2%80%99s-1-hybrid-cloud-provider
+
+https://newsroom.ibm.com/2018-10-28-IBM-To-Acquire-Red-Hat-Completely-Changing-The-Cloud-Landscape-And-Becoming-Worlds-1-Hybrid-Cloud-Provider
+
+For real this time.
+
+== July 2018 - Google or Microsoft
+
+https://investorplace.com/2018/07/18-stocks-that-could-be-takeover-targets/
+
+`Yet takeover speculation has continued, with recent rumors suggesting Alphabet should be interested as it builds out its cloud business. Any interest could start a bidding war, with other tech giants including Microsoft perhaps becoming interested.`
+
+
+== March 2018 - Google
+
+https://www.wraltechwire.com/2018/03/19/report-red-hat-could-be-a-google-takeover-target-a-deal-wouldnt-be-cheap/
+
+`A top executive for the cloud behemoth tells Bloomberg News that Google is "constantly on the lookout for a major acquisition."`
+
+== February and March 2014 - Microsoft
+
+https://gigaom.com/2014/02/28/why-microsoft-should-just-pack-it-in-and-buy-red-hat/
+
+https://www.linuxinsider.com/story/80185.html
+
+This wasn't so much a rumor as a suggestion.
+
+`...Microsoft is an enterprise software company that hopes to transition its strength in that segment into the cloud-and-mobile era. And for Microsoft’s new CEO Satya Nadella, who will orchestrate that transition, an acquisition of Red Hat would be a bold stroke.`
+
+== August 2010 - SAP
+
+https://www.pcworld.idg.com.au/article/358509/rumored_sap-red_hat_merger_seen_long_shot/
+
+`Rumors swirled once again this week regarding a possible takeover of Red Hat, this time by SAP, but a number of industry observers said Thursday that the prospect is unlikely at best... Still, one must consider the nature of those purchases, Reed said. "It's not about compiling a stack, it's about [capitalizing on] emerging trends."`
+
+== May 2009 - IBM
+
+http://allthingsd.com/20090515/ibm-to-buy-red-hat-some-day-maybe
+
+https://www.zdnet.com/article/is-an-ibm-purchase-of-red-hat-inevitable/
+
+Jefferies & Co. analyst Katherine Egbert thinks IBM will buy Red Hat. This may be related to the March 2009 Oracle rumor.
+
+`We believe it's inevitable that Red Hat will be subsumed into a larger entity, probably IBM, given the strategic importance of RHEL with the data center.`
+
+== March 2009 - Oracle
+
+https://seekingalpha.com/article/127417-is-the-time-right-for-oracle-to-buy-red-hat
+
+Jefferies & Co. analyst Katherine Egbert thinks Oracle will buy Red Hat. This may be related to the May 2009 IBM rumor.
+
+`...research note that "it would make sense" for Oracle to own Red Hat.`
+
+== October 2006 - Oracle
+
+http://www.washingtonpost.com/wp-dyn/content/article/2006/10/26/AR2006102600253.html
+
+`If Red Hat's stock continues to falter, the company could become increasingly vulnerable to a takeover. Oracle executives refused Wednesday to say if they might be interested in buying Red Hat.`
+
+== May 2005 - Microsoft
+
+https://www.zdnet.com/article/is-microsoft-considering-acquisition-of-red-hat/
+
+https://www.zdnet.com/article/microsoft-to-buy-red-hat-say-it-aint-so/
+
+`Microsoft could see Red Hat's acquisition as a nice way to undermine IBM, but might not consider that a sufficient reason to do it.`
+
+== January 2002 - AOL
+
+https://www.theregister.co.uk/2002/01/20/who_wins_if_aol_swallows/
+
+
+`AOL has already touted Linux in web appliances and appreciates that a box giving access to AOL content and instant messaging doesn't need to be a Wintel PC. The trouble is, buying RedHat is the most convoluted and most expensive way of buying such an alternative to Wintel.`
+
+
+
+---
+
+....
+
+(c) by Mark McKinstry
+
+This is licensed under a
+Creative Commons Attribution 4.0 International License.
+
+You should have received a copy of the license along with this
+work. If not, see <http://creativecommons.org/licenses/by/4.0/>.
+....
+
