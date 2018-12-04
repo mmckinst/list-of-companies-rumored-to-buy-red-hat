@@ -1,10 +1,10 @@
 :toc:
 
-== December 2018 - Google, Amazon, or Microsoft
+== December 2018 - Google
 
 https://www.wraltechwire.com/2018/12/03/wall-street-firm-google-could-make-a-bid-for-red-hat-despite-34b-deal-with-ibm/
 
-`Stiefel, a Wall Street investment firm, says that Google could make a bid for Red Hat... Based on a review of a filing that shows three companies beyond IBM looked at buying Red Hat, Stiefel believes that Google, Amazon and Microsoft were shopping for the Hatters.`
+`"The firm thinks Google could circle back and make another offer for Red Hat now that Google Cloud is under new management," says business news site Seeking Alpha.`
 
 == October 2018 - Cisco, Google, or Oracle
 
