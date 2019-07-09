@@ -1,5 +1,13 @@
 :toc:
 
+== July 2019 - IBM
+
+https://www.redhat.com/en/about/press-releases/ibm-closes-landmark-acquisition-red-hat-34-billion-defines-open-hybrid-cloud-future
+
+https://newsroom.ibm.com/2019-07-09-IBM-Closes-Landmark-Acquisition-of-Red-Hat-for-34-Billion-Defines-Open-Hybrid-Cloud-Future
+
+The deal closed July 9, 2019.
+
 == December 2018 - Google
 
 https://www.wraltechwire.com/2018/12/03/wall-street-firm-google-could-make-a-bid-for-red-hat-despite-34b-deal-with-ibm/
